@@ -14,7 +14,7 @@ email:
 description: This is my site.
 keyword: 
 url: 
-baseurl:
+baseurl: 
 RSS: false
 weibo_username: 
 zhihu_username: 
