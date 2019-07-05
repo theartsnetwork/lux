@@ -36,7 +36,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 duoshuo_username: 
-duoshuo_share: true
+duoshuo_share: false
 ba_track_id: " "
 ga_track_id: " "
 ga_domain: 
@@ -46,8 +46,8 @@ sidebar-avatar: "/img/avatar-hux.jpg"
 featured-tags: true
 featured-condition-size: 1
 friends:
-- title: Hux Blog
-  href: http://huangxuan.me
+- title: Foo
+  href: "#"
 - title: Foo
   href: "#"
 - title: Bar
