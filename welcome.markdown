@@ -1,7 +1,7 @@
 ---
 title: Welcome
 date: 2019-07-05 11:22:00 +05:30
-layout: default
+layout: keynote
 ---
 
 # Logo Design
