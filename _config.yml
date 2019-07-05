@@ -11,7 +11,7 @@ collections:
 SEOTitle: Lux by Art
 header-img: img/home-bg.jpg
 email: 
-description: 
+description: This is my site.
 keyword: 
 url: 
 baseurl: "/huxblog-boilerplate"
@@ -35,7 +35,7 @@ gems:
 markdown: kramdown
 kramdown:
   input: GFM
-duoshuo_username: huxblog
+duoshuo_username: 
 duoshuo_share: true
 ba_track_id: " "
 ga_track_id: " "
