@@ -1,26 +1,58 @@
 ---
-title: lux
+title: Lux
 timezone: Asia/Kolkata
 collections:
-  people:
-    title: People
-    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
+SEOTitle: Lux by Art
+header-img: img/home-bg.jpg
+email: 
+description: 
+keyword: 
+url: 
+baseurl: "/huxblog-boilerplate"
+RSS: false
+weibo_username: 
+zhihu_username: 
+github_username: 
+facebook_username: 
+highlighter: rouge
 permalink: pretty
+paginate: 10
+exclude:
+- less
+- node_modules
+- Gruntfile.js
+- package.json
+- README.md
+anchorjs: true
+gems:
+- jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+duoshuo_username: huxblog
+duoshuo_share: true
+ba_track_id: " "
+ga_track_id: " "
+ga_domain: 
+sidebar: true
+sidebar-about-description: 'This is my information. '
+sidebar-avatar: "/img/avatar-hux.jpg"
+featured-tags: true
+featured-condition-size: 1
+friends:
+- title: Hux Blog
+  href: http://huangxuan.me
+- title: Foo
+  href: "#"
+- title: Bar
+  href: "#"
+- title: Example Friends
+  href: "#"
+- title: It helps SEO
+  href: "#"
