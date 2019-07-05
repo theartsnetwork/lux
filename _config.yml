@@ -14,7 +14,7 @@ email:
 description: This is my site.
 keyword: 
 url: 
-baseurl: "/huxblog-boilerplate"
+baseurl: "/welcome"
 RSS: false
 weibo_username: 
 zhihu_username: 
