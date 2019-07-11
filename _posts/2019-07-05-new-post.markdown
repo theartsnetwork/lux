@@ -1,6 +1,8 @@
 ---
 title: New-post
 date: 2019-07-05 05:56:00 Z
+
+header-img: img/about-bg.jpg
 ---
 
 ##New Post
