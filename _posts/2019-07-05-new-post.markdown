@@ -1,8 +1,24 @@
 ---
 title: New-post
+<<<<<<< HEAD
 date: 2019-07-05 05:56:00 Z
 
 header-img: img/about-bg.jpg
+=======
+date: 2019-07-05 11:26:00 +05:30
+categories:
+- New Category
+tags:
+- New
+- Tags
+- Art
+- JavaScript
+author: Akshay
+subtitle: This is a sample subtitle
+header-img: img/image_preview-12.jpeg
+>>>>>>> 5a7b73e7c319f1e6b627d3a5550306c8e2658e02
 ---
 
 ##New Post
+
+What can I say?

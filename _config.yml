@@ -2,6 +2,9 @@
 title: Lux
 timezone: Asia/Kolkata
 collections:
+  people:
+    title: People
+    output: true
   posts:
     title: Posts
     output: true
