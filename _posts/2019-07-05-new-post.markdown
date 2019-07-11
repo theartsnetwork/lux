@@ -10,7 +10,7 @@ tags:
 - JavaScript
 author: Akshay
 subtitle: This is a sample subtitle
-header-img: https://images.unsplash.com/photo-1562102010-558d6be6268e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
+header-img: img/test.jpg
 ---
 
 ##New Post
